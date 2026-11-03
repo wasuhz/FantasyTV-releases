@@ -1,5 +1,8 @@
 # FantasyTV
 
+> **Public beta.** FantasyTV works, but it's new and tested on a handful of TVs and phones. Expect rough edges, and
+> please report what breaks in [Issues](https://github.com/wasuhz/FantasyTV/issues). The app installs fixes itself.
+
 NFL RedZone for your own fantasy teams, with your own IPTV (Xtream or Dispatcharr). One Android app for your **TV** and
 your **phone**, foldables included. More at [fantasytvapp.com](https://fantasytvapp.com).
 
@@ -9,7 +12,7 @@ Android 8.0 or newer, the same download for every device:
 
 - **Android TV / Google TV:** NVIDIA Shield, onn 4K, Chromecast with Google TV, most Google TVs
 - **Fire TV:** should work, untested
-- **Android phones and tablets**, including foldables like the **Galaxy Fold** (folded, unfolded or half-open)
+- **Android phones and tablets**; works well on the **Galaxy Fold** (folded, unfolded or half-open)
 - Not iPhone, iPad or Apple TV (an iPhone can still be the remote for a TV, in its browser)
 
 ## Install
